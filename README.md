@@ -1,3 +1,5 @@
+Example workflow demonstrating wrist bone segmentation using 3D Slicer and a curated dynamic wrist MRI dataset.
+
 # Wrist MRI Segmentation using 3D Slicer
 
 This repository demonstrates semi-automatic segmentation of wrist bones using 3D Slicer on a wrist MRI dataset. The example highlights a practical workflow for medical image segmentation and visualization.
